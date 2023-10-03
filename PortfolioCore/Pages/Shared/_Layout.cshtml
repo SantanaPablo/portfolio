@@ -1,0 +1,88 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - PortfolioCore</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/PortfolioCore.styles.css" asp-append-version="true" />
+</head>
+<body>
+    <header class="header" id="inicio">
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+            <div class="container">
+                <div class="col">
+                    <div class="container">
+                        <a href="~/" runat="server">
+                            <img src="img\Logo Perromono3-Recuperado.png" alt="" width="50" height="50">
+                        </a>
+                    </div>
+                </div>
+                <div>class="col-2" </div>
+                <div class="col+1">
+                    <div class="container-fluid">
+                        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                            <span class="navbar-toggler-icon"></span>
+                        </button>
+                        <div class="collapse navbar-collapse" id="navbarNav">
+                            <ul class="navbar-nav">
+                                <li class="nav-item">
+                                    <a class="nav-link active" aria-current="page" href="/About.aspx">Sobre Mí</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="#">Videojuegos</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="#">Proyectos</a>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="#">Contacto</a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+        </nav>
+
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer id="contacto" class="bg-dark">
+        <div class=" footer-content">
+            <img src="img\Logo Perromono3-Recuperado.png" alt="" width="125" class="logo-footer">
+            <div class="social-media">
+                <a href="https://www.facebook.com/perromono19" class="social-media-icon" target="_blank">
+                    <i class="bx bxl-facebook"></i>
+                </a>
+                <a href="https://www.instagram.com/perromono19/" class="social-media-icon" target="_blank">
+                    <i class="bx bxl-instagram"></i>
+                </a>
+                <a href="https://www.youtube.com/c/Perromono" class="social-media-icon" target="_blank">
+                    <i class="bx bxl-youtube"></i>
+                </a>
+
+                <a href="https://www.linkedin.com/in/pablo-britez-santana/" class="social-media-icon" target="_blank">
+                    <i class="bx bxl-linkedin"></i>
+                </a>
+            </div>
+            <div>
+                <p style="color: #fff">&copy; @DateTime.Now.Year - Página hecha en ASP.NET</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

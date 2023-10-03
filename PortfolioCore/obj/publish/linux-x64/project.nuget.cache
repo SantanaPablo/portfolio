@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "B3qte316aYPh54e5L+MKoY/AZ0JOdLQcAwTPgaHF4HUQU5XkVXN6fQ6RDP32/l3td27mKw20r+f3yrAs6H2uiQ==",
+  "success": true,
+  "projectFilePath": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\PortfolioCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pablo\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512",
+    "C:\\Users\\pablo\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-x64\\6.0.18\\microsoft.netcore.app.runtime.linux-x64.6.0.18.nupkg.sha512",
+    "C:\\Users\\pablo\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-x64\\6.0.18\\microsoft.aspnetcore.app.runtime.linux-x64.6.0.18.nupkg.sha512",
+    "C:\\Users\\pablo\\.nuget\\packages\\microsoft.netcore.app.host.linux-x64\\6.0.18\\microsoft.netcore.app.host.linux-x64.6.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,389 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PortfolioCore.bundle.scp.css",
+      "PackagePath": "staticwebassets\\PortfolioCore.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\img\\3.png",
+      "PackagePath": "staticwebassets\\img\\3.png"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\img\\Animacion0061.png",
+      "PackagePath": "staticwebassets\\img\\Animacion0061.png"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\img\\Creditosit2.png",
+      "PackagePath": "staticwebassets\\img\\Creditosit2.png"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\img\\Logo Perromono3-Recuperado.png",
+      "PackagePath": "staticwebassets\\img\\Logo Perromono3-Recuperado.png"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\img\\POrtada Pop perromono-min.png",
+      "PackagePath": "staticwebassets\\img\\POrtada Pop perromono-min.png"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\img\\POrtada Pop perromono.png",
+      "PackagePath": "staticwebassets\\img\\POrtada Pop perromono.png"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\img\\PerfilLinkedin.jpg",
+      "PackagePath": "staticwebassets\\img\\PerfilLinkedin.jpg"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\img\\PerromonoGamesweb-min.png",
+      "PackagePath": "staticwebassets\\img\\PerromonoGamesweb-min.png"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\img\\Titulo Instinto.png",
+      "PackagePath": "staticwebassets\\img\\Titulo Instinto.png"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\img\\aptitudes\\asp.netLogo.png",
+      "PackagePath": "staticwebassets\\img\\aptitudes\\asp.netLogo.png"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\img\\aptitudes\\csharp.png",
+      "PackagePath": "staticwebassets\\img\\aptitudes\\csharp.png"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\img\\aptitudes\\microsoft.net.png",
+      "PackagePath": "staticwebassets\\img\\aptitudes\\microsoft.net.png"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\img\\aptitudes\\sql.png",
+      "PackagePath": "staticwebassets\\img\\aptitudes\\sql.png"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\img\\card1-min.png",
+      "PackagePath": "staticwebassets\\img\\card1-min.png"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\img\\card1.png",
+      "PackagePath": "staticwebassets\\img\\card1.png"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\img\\card2-min.png",
+      "PackagePath": "staticwebassets\\img\\card2-min.png"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\img\\card2.png",
+      "PackagePath": "staticwebassets\\img\\card2.png"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\img\\card3-min.png",
+      "PackagePath": "staticwebassets\\img\\card3-min.png"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\img\\card3.png",
+      "PackagePath": "staticwebassets\\img\\card3.png"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\img\\flecha.png",
+      "PackagePath": "staticwebassets\\img\\flecha.png"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\img\\gradiente.png",
+      "PackagePath": "staticwebassets\\img\\gradiente.png"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\img\\image.png",
+      "PackagePath": "staticwebassets\\img\\image.png"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\img\\ins_arg.png",
+      "PackagePath": "staticwebassets\\img\\ins_arg.png"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\img\\mediafire.png",
+      "PackagePath": "staticwebassets\\img\\mediafire.png"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\img\\menu-hamburguesa.png",
+      "PackagePath": "staticwebassets\\img\\menu-hamburguesa.png"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\img\\menu-hamburguesa.svg",
+      "PackagePath": "staticwebassets\\img\\menu-hamburguesa.svg"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\img\\mugen000 (1)-min.png",
+      "PackagePath": "staticwebassets\\img\\mugen000 (1)-min.png"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\img\\mugen000 (1).png",
+      "PackagePath": "staticwebassets\\img\\mugen000 (1).png"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\img\\mugen000-min.png",
+      "PackagePath": "staticwebassets\\img\\mugen000-min.png"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\img\\mugen000.png",
+      "PackagePath": "staticwebassets\\img\\mugen000.png"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\img\\presidente.png",
+      "PackagePath": "staticwebassets\\img\\presidente.png"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.PortfolioCore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.PortfolioCore.props",
+      "PackagePath": "build\\PortfolioCore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.PortfolioCore.props",
+      "PackagePath": "buildMultiTargeting\\PortfolioCore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.PortfolioCore.props",
+      "PackagePath": "buildTransitive\\PortfolioCore.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

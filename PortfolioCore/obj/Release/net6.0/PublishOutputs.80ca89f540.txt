@@ -1,0 +1,7 @@
+E:\Users\pablo\source\repos\PortfolioCore\PortfolioCore\obj\Release\net6.0\PubTmp\Out\PortfolioCore.exe
+E:\Users\pablo\source\repos\PortfolioCore\PortfolioCore\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+E:\Users\pablo\source\repos\PortfolioCore\PortfolioCore\obj\Release\net6.0\PubTmp\Out\appsettings.json
+E:\Users\pablo\source\repos\PortfolioCore\PortfolioCore\obj\Release\net6.0\PubTmp\Out\PortfolioCore.dll
+E:\Users\pablo\source\repos\PortfolioCore\PortfolioCore\obj\Release\net6.0\PubTmp\Out\PortfolioCore.deps.json
+E:\Users\pablo\source\repos\PortfolioCore\PortfolioCore\obj\Release\net6.0\PubTmp\Out\PortfolioCore.runtimeconfig.json
+E:\Users\pablo\source\repos\PortfolioCore\PortfolioCore\obj\Release\net6.0\PubTmp\Out\PortfolioCore.pdb

@@ -1,0 +1,368 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    scroll-behavior: smooth;
+}
+
+.contenedor {
+    width: 90%;
+    max-width: 1200px;
+    overflow: auto;
+    margin: auto;
+    padding: 60px 0;
+}
+
+
+
+
+
+.unity-desktop .cargador {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    display: none
+}
+
+#unity-logo {
+    width: 154px;
+    height: 130px;
+    background: url('unity-logo-dark.png') no-repeat center
+}
+
+#unity-progress-bar-empty {
+    width: 141px;
+    height: 18px;
+    margin-top: 10px;
+    margin-left: 6.5px;
+    background: url('progress-bar-empty-dark.png') no-repeat center
+}
+
+#unity-progress-bar-full {
+    width: 0%;
+    height: 18px;
+    margin-top: 10px;
+    background: url('progress-bar-full-dark.png') no-repeat center
+}
+
+
+body {
+    background-color: #fff;
+    background-image: -webkit-linear-gradient(bottom, #03258C, #176FA6 );
+}
+
+.cabeza {
+    height: 100vh;
+    background-image: url("../img/Creditosit2.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+main {
+}
+/*BARRA DE NAVEGACIÓN*/
+
+.bg-dark {
+    opacity: 0.9;
+}
+
+.menu-navegacion {
+    display: flex;
+    padding: 7px;
+    margin: auto;
+}
+
+    .menu-navegacion .enlace {
+        display: flex;
+    }
+
+        .menu-navegacion .enlace a {
+            color: #fff;
+            text-decoration: none;
+            font-size: 18px;
+            display: block;
+            padding: 0px;
+            padding-inline: 20px;
+            justify-content: center;
+            border-radius: 0px;
+        }
+
+    .menu-navegacion .container {
+        justify-content: center;
+    }
+
+/*menu hamburguesa*/
+.hamburger {
+    position: fixed;
+    top: 10px;
+    left: -100px;
+    z-index: 2;
+    display: flex;
+    margin: 10px;
+    padding: 5px;
+    background: #005fa4;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 1px 1px 3px #000;
+    cursor: pointer;
+}
+
+.enlace a:hover {
+    background: #fff;
+    opacity: 0.8;
+    color: #176FA6;
+}
+
+
+/*SECCION PRINCIPAL*/
+
+.principal {
+    background-image: linear-gradient(to right top, #03258c, #003595, #00449b, #0052a0, #005fa4, #1d6dab, #327ab2);
+}
+
+.subtitulo {
+    color: white;
+    text-align: center;
+    margin-bottom: 40px;
+    font-size: 40px;
+}
+
+.contenedor {
+    padding: 40px;
+    border-radius: 10px;
+}
+
+
+.imagen, .card {
+    border-radius: 10px;
+}
+/*Novedades*/
+
+.contenedor #carouselExampleIndicators {
+    width: 80%;
+    margin: auto;
+    /*justify-content: center;*/
+}
+
+.img-fluid {
+    padding: 20px;
+}
+
+.card-4 {
+    margin: auto;
+}
+
+
+
+/*Videojuegos*/
+
+
+
+.contenedor .tarjetas {
+    display: flex;
+    flex-direction: row;
+    width: 80%;
+    margin: auto;
+}
+
+#presidente {
+    padding: 2.4%;
+}
+
+.contenedor .tarjetas .card {
+    display: flex;
+    flex-direction: column;
+    padding: 2% 3% 3%;
+    margin: 0, 0, 0, 2%;
+    background-color: #03318C;
+    margin: auto;
+}
+
+.card-1 {
+    margin-right: 5%;
+}
+
+
+
+/*FOOTER*/
+
+.footer-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    margin-top: 20px;
+}
+
+.social-media {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+
+.social-media-icon {
+    display: inline-block;
+    margin: 20px;
+    width: 60px;
+    height: 60px;
+    border: 1px solid #fff;
+    border-radius: 50%;
+    text-align: center;
+    color: #fff;
+}
+
+    .social-media-icon:hover {
+        background: #fff;
+        color: #176FA6;
+    }
+
+    .social-media-icon i {
+        font-size: 30px;
+        line-height: 60px;
+    }
+
+
+
+/*RESPONSIVE DESIGN*/
+
+
+@media screen and (max-width: 1200px) {
+    .titulo-juego {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 800px) {
+
+    /*NAVEGACIÓN*/
+
+    .hamburger {
+        display: flex;
+        left: 10px;
+    }
+
+
+
+
+
+    .menu-navegacion {
+        position: fixed;
+        top: 0;
+        right: -100%;
+        width: 70vw;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        transition: transform 1s;
+        transform: translate(110%);
+    }
+
+        .menu-navegacion.show {
+            transform: translate(0);
+        }
+
+        .menu-navegacion .container {
+            display: flex;
+            flex-direction: column;
+            position: fixed;
+            top: 10px;
+            margin: 20px;
+            left: 11%;
+        }
+
+        .menu-navegacion .enlace {
+            display: flex;
+            flex-direction: column;
+            position: fixed;
+            top: 100px;
+            margin: 20px;
+            left: 3%;
+            align-items: center;
+        }
+
+            .menu-navegacion .enlace a {
+                padding: 20px;
+            }
+
+    /*SECCIÓN PRINCIPAL*/
+
+    .subtitulo {
+        font-size: 30px;
+        margin: 20px;
+    }
+
+    .contenedor {
+        margin: 20px, 0, 20px, 0;
+        padding: 0;
+    }
+
+    .titulo-juego {
+        width: 100%;
+    }
+
+    .contenedor #carouselExampleIndicato rs {
+        display: flex;
+        width: 100%;
+        margin: 0;
+    }
+
+    .contenedor .tarjetas {
+        display: flex;
+        flex-direction: row;
+        width: 100%;
+        margin-bottom: 20px;
+    }
+}
+
+@media (max-width: 600px) {
+    .menu-navegacion {
+        width: 110%;
+    }
+
+
+    .
+
+    .contenedor .tarjetas .card-1 {
+        margin-right: 0;
+        margin-bottom: 25px;
+    }
+
+
+
+    .cont-expert {
+        width: 80%;
+    }
+
+    .footer-content {
+        justify-content: center;
+    }
+
+    .social-media {
+        width: 80%;
+        justify-content: space-evenly;
+    }
+
+    .social-media-icon {
+        margin-left: 0;
+    }
+
+    .social-media i {
+        margin-left: 0;
+    }
+
+    .contact-us {
+        text-align: center;
+        width: 10%;
+        margin-left: 0px;
+    }
+}

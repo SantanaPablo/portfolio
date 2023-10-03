@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DKcQ/FL1+Qa1tFIbjHkgg5a8V3UeSCgveDahhmNnY2aHCaXD2bStGzqocqOG8DTA47B3jY4lkHfO7AQu6jfb1Q==",
+  "success": true,
+  "projectFilePath": "E:\\Users\\pablo\\source\\repos\\PortfolioCore\\PortfolioCore\\PortfolioCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pablo\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512"
+  ],
+  "logs": []
+}
